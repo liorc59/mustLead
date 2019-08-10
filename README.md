@@ -15,7 +15,7 @@ An exemple for a request:
 }
 ```
 
-Note that there is a \n before and after every eadge defination.
+Note that there is a \n before and after every edge defination.
 
 
 To stat the server run src/main/java/WebServer.java.
