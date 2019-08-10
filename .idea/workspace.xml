@@ -50,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WebServer">
+  <component name="RunManager" selected="JUnit.MustLeadTests">
     <configuration name="WebServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="WebServer" />
       <module name="getMustLeads" />
@@ -96,8 +96,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WebServer" />
         <item itemvalue="JUnit.MustLeadTests" />
+        <item itemvalue="Application.WebServer" />
       </list>
     </recent_temporary>
   </component>
