@@ -16,3 +16,6 @@ An exemple for a request:
 ```
 
 Note that there is a \n before and after every eadge defination.
+
+
+To stat the server run src/main/java/WebServer.java.
